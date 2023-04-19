@@ -5,4 +5,4 @@
 > - **JFrame** library is used to create the game window, where all the graphics are rendered. The **KeyListener** library is used to capture user input, which is then processed to control the game's characters and objects.
 > - **JPanel** is used to create the game's user interface, where the player can see the game's score, health, and other important information. The **AudioSystem** library is also used to add sound effects to the game, providing an immersive gaming experience.
 
-### Of course, i could never built something like this without [RyiSnow](https://www.youtube.com/@RyiSnow)
+### Of course, i could never built something like this without [RyiSnow](https://www.youtube.com/@RyiSnow) tutorials, thanks so much.
